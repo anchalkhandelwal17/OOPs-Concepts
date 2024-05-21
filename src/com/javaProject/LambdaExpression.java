@@ -1,5 +1,5 @@
 package com.javaProject;
-.
+
 import java.util.ArrayList;
 
 class EmployeeDataClass{
