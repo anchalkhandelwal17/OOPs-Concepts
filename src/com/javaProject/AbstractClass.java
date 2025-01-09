@@ -1,6 +1,6 @@
 package com.javaProject;
 
-//abstract final class A{}  // uncommenting this line will give compile error as
+// abstract final class A{}  // uncommenting this line will give compile error as
 // abstract classes cannot be declared final
 
 // using abstract classes also we can't achieve multiple inheritance in java
@@ -56,5 +56,6 @@ public class AbstractClass {
         b.method2();
         b.method3();
         A.method3();
+//        A.method4();
     }
 }

@@ -47,6 +47,7 @@ public class CustomComparator {
 //        });
 
         Arrays.sort(data, new CustomComparatorClass());
+        Arrays.sort(data, (a, b) -> Integer.compare(a.age, b.age));
         for(EmployeeData e : data){
             System.out.println("Data : " + "{" + e.name + " " + e.age + "}");
         }

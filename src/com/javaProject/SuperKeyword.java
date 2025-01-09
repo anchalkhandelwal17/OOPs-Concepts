@@ -1,6 +1,6 @@
 package com.javaProject;
 
-//Sone Advantages of Using Super Keyword
+//Some Advantages of Using Super Keyword
 //Enables reuse of code
 //Supports polymorphism
 //Provides access to parent class behaviour

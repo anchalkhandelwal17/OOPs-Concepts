@@ -42,5 +42,7 @@ class Modifier{
 public class AccessModifiers {
     public static void main(String[] args){
 
+//        Modifier m = new Modifier();
+//        m.method3();
     }
 }
